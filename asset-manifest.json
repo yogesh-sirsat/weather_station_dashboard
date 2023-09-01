@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weather_station_dashboard/static/css/main.a21512ac.css",
+    "main.js": "/weather_station_dashboard/static/js/main.345b3f89.js",
+    "static/js/787.bd717ee6.chunk.js": "/weather_station_dashboard/static/js/787.bd717ee6.chunk.js",
+    "index.html": "/weather_station_dashboard/index.html",
+    "main.a21512ac.css.map": "/weather_station_dashboard/static/css/main.a21512ac.css.map",
+    "main.345b3f89.js.map": "/weather_station_dashboard/static/js/main.345b3f89.js.map",
+    "787.bd717ee6.chunk.js.map": "/weather_station_dashboard/static/js/787.bd717ee6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a21512ac.css",
+    "static/js/main.345b3f89.js"
+  ]
+}
